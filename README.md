@@ -1,0 +1,2 @@
+# Chat-Partner-for-Hospital-patients
+The project is a chatbot which helps the patient who need a help at urgent. It basically answers the question asked by the patients. They can know about their test results, doctor's timing, doctor's cost vaccination schedule and medication should be taken which has been updated by the doctor. This chatbot saves patient's time .It can also answer about the lifestyle, symptoms of any disease like corona. It can also give entire detail about particular disease and it also answers about the healthy food to be taken.
